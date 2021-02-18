@@ -14,6 +14,7 @@ public class DataTestit implements Runnable{
 		// TODO Auto-generated method stub
 		
 		System.out.print(nimi + " käynnistyi");
+		//Tämä on Jennin tekemä testi
 		
 	}
 
